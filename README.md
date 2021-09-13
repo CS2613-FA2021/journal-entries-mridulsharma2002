@@ -1,6 +1,10 @@
 # This is Mridul Sharma's Journal Wiki!
 
-## The 4 sections covered in CS 2613 Fall 2021:
+## As Martin Fowler said:
+> Any fool can write code that a computer can understand. 
+> Good programmers write code that humans can understand.
+
+## So I will use this resource to organize myself while learning the following: 
 ### Python 
 ### JavaScript
 ### Racket
