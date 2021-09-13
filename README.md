@@ -1,3 +1,7 @@
-# Journals
+# This is Mridul Sharma's Journal Wiki!
 
-Follow the steps detailed on D2L regarding journals.
+## The 4 sections covered in CS 2613 Fall 2021:
+### Python 
+### JavaScript
+### Racket
+### Matlab/Octave
